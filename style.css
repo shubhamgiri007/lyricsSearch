@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #fff;
+  background-color: silver;
   font-family: Arial, Helvetica, sans-serif;
   margin: 0;
 }
@@ -22,11 +22,12 @@ button:focus {
 }
 
 header {
-  background-image: url('https://images.unsplash.com/photo-1510915361894-db8b60106cb1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  background-image: url('pic.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
-  color: #fff;
+  color: orange;
+  font-weight: bolder;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -74,7 +75,7 @@ form button {
   background-color: #e056fd;
   border: 0;
   border-radius: 50px;
-  color: #fff;
+  color: lightblue;
   font-size: 16px;
   padding: 13px 30px;
 }
@@ -83,7 +84,7 @@ form button {
   background-color: #8d56fd;
   border: 0;
   border-radius: 10px;
-  color: #fff;
+  color: lightcyan;
   padding: 4px 10px;
 }
 
